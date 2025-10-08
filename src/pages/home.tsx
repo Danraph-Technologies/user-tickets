@@ -132,7 +132,7 @@ function Home() {
           </div>
         </div>
       </section>
-      <section className="bg-[#f5f9fc] py-5">
+      <section className="bg-[#f5f9fc] py-5 sm:my-0 my-10 ">
         <div className=" max-w-[1180px] mx-auto px-4 text-center">
           <h2 className="sm:text-[35px] text-[27px] font-bold ">
             How to Generate Tickets
