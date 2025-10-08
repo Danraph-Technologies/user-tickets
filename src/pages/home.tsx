@@ -94,7 +94,7 @@ function Home() {
             Danraph Ecocruise
           </h1>
           <p className="font-semibold text-gray-500 sm:text-[16px] text-[14px] sm:-translate-y-[10px]  ">
-            A Subsidiary of DanRaph Integrated Services LTD
+           Operator of Maduka University Shuttle Services
           </p>
 
           <p className="sm:text-[20px] text-[15px] max-w-[700px] font-medium text-gray-500 py-5 ">
