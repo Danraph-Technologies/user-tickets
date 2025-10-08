@@ -251,7 +251,7 @@ function Home() {
               </div>
 
               <div className="flex items-left">
-                <button className="bg-[#0047a7] sm:px-4 sm:py-2 py-1 px-3 text-[14px] sm:text-[16px] rounded-lg font-semibold text-white hover:bg-[#0048a7e9] transition-all duration-300 hover:scale-105 shadow-lg cursor-pointer">
+                <button className="bg-[#0047a7] sm:px-4 sm:py-2 py-[6px] px-3 text-[14px] sm:text-[16px] rounded-lg font-semibold text-white hover:bg-[#0048a7e9] transition-all duration-300 hover:scale-105 shadow-lg cursor-pointer">
                   Contact Support
                 </button>
               </div>
