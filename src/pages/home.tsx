@@ -379,7 +379,7 @@ function Home() {
           <h2 className="sm:text-[25px] text-[20px] font-bold">Still have questions?</h2>
           <p className="font-medium text-gray-500 text-[14px] sm:text-[16px] ">Our customer support team is here to help you 24/7</p>
 
-          <button className="bg-[#0047a7] sm:px-4 sm:py-2 py-1 px-3 text-[14px] sm:text-[16px] rounded-lg font-semibold text-white hover:bg-[#0048a7e9] transition-all duration-300 hover:scale-105 shadow-lg cursor-pointer">
+          <button className="bg-[#0047a7] sm:px-4 sm:py-2 py-[6px] px-3 text-[14px] sm:text-[16px] rounded-lg font-semibold text-white hover:bg-[#0048a7e9] transition-all duration-300 hover:scale-105 shadow-lg cursor-pointer">
             Contact Support
           </button>
         </div>
