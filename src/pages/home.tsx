@@ -271,7 +271,7 @@ function Home() {
         </div>
       </section>
       <section className="bg-[#f5f9fc] sm:px-10 px-2">
-        <div className="grid md:grid-cols-4 grid-cols-1 gap-6 sm:px-5 px-2 pb-20">
+        <div className="grid md:grid-cols-4 grid-cols-1 sm:grid-cols-3 gap-6 sm:px-5 px-2 pb-20">
           <div className="text-left border border-gray-400 p-5 rounded-lg hover:shadow-md shadow-sm hover:shadow-gray-500 shadow-gray-300 duration-200 transition-all">
             <div className="bg-[#0047a7] w-[45px] h-[45px] flex flex-col justify-center items-center text-white rounded-lg  ">
               <Shield className="w-7 h-7" />
