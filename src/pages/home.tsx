@@ -318,7 +318,7 @@ function Home() {
           </div>
         </div>
       </section>
-      <section className="text-center px-3 pt-5 sm:pt-16">
+      <section className="text-center px-3 pt-10 sm:pt-16">
         <div className="max-w-4xl mx-auto">
           <h2 className="sm:text-[45px] text-[30px] font-bold ">
             Frequently Asked Questions
@@ -328,7 +328,7 @@ function Home() {
             shuttle bus ticket
           </p>
 
-          <div className="sm:py-20 py-5 flex flex-col gap-5 ">
+          <div className="sm:py-20 py-10 flex flex-col gap-5 ">
             {faqs.map((item, i) => {
               const open = openIndex === i;
               return (
