@@ -178,10 +178,10 @@ function Home() {
                 </p>
               </div>
               <p className="font-medium sm:text-[22px] text-[19px]">
-                Add Your Email
+                Add Your Details
               </p>
               <p className="text-gray-500 max-w-[350px] ">
-                Enter your email address to receive your ticket
+                Enter your email address and phone number to receive your ticket
               </p>
             </div>
 
