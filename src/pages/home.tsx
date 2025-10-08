@@ -85,7 +85,7 @@ function Home() {
 
   return (
     <div>
-      <section className="flex flex-col justify-center items-center text-center gap-3 px-3 pt-10 sm:py-16">
+      <section className="flex flex-col justify-center items-center text-center gap-3 px-3 py-10 sm:py-16">
         <div className="flex justify-center items-center">
           <img src="/logo.png" alt="" className="sm:w-[250px] w-[180px] " />
         </div>
