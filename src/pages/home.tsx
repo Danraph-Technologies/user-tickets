@@ -328,7 +328,7 @@ function Home() {
             shuttle bus ticket
           </p>
 
-          <div className="py-20 flex flex-col gap-5 ">
+          <div className="sm:py-20 py-5 flex flex-col gap-5 ">
             {faqs.map((item, i) => {
               const open = openIndex === i;
               return (
